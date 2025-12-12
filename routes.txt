@@ -1,0 +1,8 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,continuous_pickup,continuous_drop_off
+001,3_1,L1,Centro / Pajaritos / Royales / Centro / San Pedro / Hospitales / San Pedro / * Calaverón,,3,,103056,103056,,,
+002,3_1,L2,Centro / Est Autobuses / Barriada / Tejera / Santa Bárbara / * Polígono,,3,,E81A39,E81A39,,,
+003,3_1,L3,Centro / Royales / Pajaritos / Centro / San Pedro / Hospitales / San Pedro / * Calaverón,,3,,019FDE,019FDE,,,
+004,3_1,L4,Centro / Hospitales / Est. Autobuses / Centro,,3,,EE6123,EE6123,,,
+008,3_1,C,CIRCULAR - Festivos - El Salvador/Barriada/Tejera/Royales/Plz M Granados/PAjaritos/Calaverón/R y Cajal/San Pedro/Hospitales/Est. Autobuses,,3,,844794,844794,,,
+009,3_1,L4E,El Salvador / Polígono / Barrio de Las Casas,,3,,EE6123,EE6123,,,
+012,3_1,EX,EXPRES POLíGONO - Centro / Polígono / San Pedro,,3,,F39600,F39600,,,
